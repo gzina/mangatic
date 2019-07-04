@@ -228,7 +228,7 @@ buildDetail = function(data){
               +'</div>'
 
             +'</div>'
-            +'<div class="tab-pane fade" id="resume" role="tabpanel" aria-labelledby="resume-tab">'
+            +'<div class="tab-pane fade" id="synopsis" role="tabpanel" aria-labelledby="synopsis-tab">'
             +data.synopsis
             +'</div>'
             +'<div class="tab-pane fade" id="trailer" role="tabpanel" aria-labelledby="trailer-tab">'

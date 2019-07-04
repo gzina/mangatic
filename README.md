@@ -1,3 +1,3 @@
 ## Mangatic
-https://gzina.github.io/CV/
+https://gzina.github.io/mangatic/
 
